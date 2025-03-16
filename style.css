@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Скрыть полосы прокрутки */
+}
+
+canvas {
+    display: block; /* Убирает лишние отступы вокруг холста */
+    background: black; /* Цвет фона холста */
+}
